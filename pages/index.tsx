@@ -23,8 +23,8 @@ const HomePage: React.FC = () => {
             <p className="text-xl md:text-2xl mb-8">
               {APP_CONFIG.description}
             </p>
-            <Button 
-              variant="outline" 
+            <Button
+              variant="outline"
               size="lg"
               className="bg-white text-blue-600 hover:bg-gray-100 border-white"
             >
